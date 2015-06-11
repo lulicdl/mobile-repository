@@ -1,0 +1,5 @@
+#Get updates from remote repository
+    $git pull origin master
+	
+#Put local updates to remote repository
+	$git push origin master
