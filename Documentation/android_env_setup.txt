@@ -1,0 +1,18 @@
+
+android studio 中文社区官网地址：安装搭建配置都有
+http://www.android-studio.org/
+
+Android Studio安装教程
+http://jingyan.baidu.com/article/67662997393cf654d51b8435.html
+
+模拟器Genymotion
+http://www.genymotion.net/
+
+Genymotion模拟器插件安装
+http://jingyan.baidu.com/article/915fc414ea858e51394b209d.html
+
+Android Studio 如何集成Genymotion模拟器
+http://blog.csdn.net/hyr83960944/article/details/37900383
+
+Android Studio 版本管理git
+http://www.wfuyu.com/technology/22499.html
