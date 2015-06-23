@@ -1,0 +1,16 @@
+
+*******************  Meeting Minutes for Jun.18 2015  *****************
+Attendee: Xin Wang, Zhuo Yin, Ming Qun Chi, Jian Liu, Li Lu
+***********************************************************************
+
+I. Current Progress
+    .Ming Qun: 完成了AndroidStudio工程搭建，给大家做了Demo展示工程基本框架。
+	           https://github.com/chimingqun/AndroidDemo.git
+	.Zhuo Yin: 提出分析股票数据统计信息
+	.Jian Liu: Casssandra数据库介绍
+
+II. Next Steps
+    .Ming Qun: 深入研究AndriodStudio
+	.Zhuo Yin: 继续研究数据分析算法，探索分析方向
+	.Jian Liu: 把Casssandra相关资料上传到github或分享给大家
+	.Li Lu: 代码规范
